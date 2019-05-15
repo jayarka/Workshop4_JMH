@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop4", "Workshop4\Workshop4.csproj", "{025F412E-8D6C-4B46-BA06-9697E0C27D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{97B2DEB9-2ADA-4D6D-A367-020E58B0E745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{A6D49881-9578-41CF-9693-A4F3DA43977B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025F412E-8D6C-4B46-BA06-9697E0C27D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025F412E-8D6C-4B46-BA06-9697E0C27D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025F412E-8D6C-4B46-BA06-9697E0C27D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025F412E-8D6C-4B46-BA06-9697E0C27D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B2DEB9-2ADA-4D6D-A367-020E58B0E745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B2DEB9-2ADA-4D6D-A367-020E58B0E745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B2DEB9-2ADA-4D6D-A367-020E58B0E745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B2DEB9-2ADA-4D6D-A367-020E58B0E745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D49881-9578-41CF-9693-A4F3DA43977B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D49881-9578-41CF-9693-A4F3DA43977B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D49881-9578-41CF-9693-A4F3DA43977B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D49881-9578-41CF-9693-A4F3DA43977B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CD5EE2-C13A-4BC6-AD33-52E50948A79F}
+	EndGlobalSection
+EndGlobal
